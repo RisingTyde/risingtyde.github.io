@@ -88,3 +88,4 @@ The message building part is the same across all languages, but there are some m
 * In Python the word 'Null' is replaces with 'None'
 * In JavaScript the word 'Null' means both null and undefined.
 * In type safe languages some functions are ommitted, as the compiler makes the check meaningless. For example, checkIsString does not make any sense in c# (but does in javaScript and Python) 
+
